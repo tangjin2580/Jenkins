@@ -1,0 +1,7 @@
+{
+  "monitor" : 293,
+  "file": "I:\\pro\\$date-access.log",
+  "sendIP": "127.0.0.1",
+  "sendPort": 6969,
+  "outTime": 0.0
+}
